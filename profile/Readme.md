@@ -1,6 +1,7 @@
 
 [![website](https://img.shields.io/badge/%40-website-orange)](https://final-rep.com)
 [![app](https://img.shields.io/badge/%40-app-orange)](https://app.final-rep.com)
+[![app](https://img.shields.io/badge/%40-shop-orange)](https://shop.final-rep.com)
 
 
 # Final Rep
